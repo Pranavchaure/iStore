@@ -40,8 +40,7 @@ const Hero = () => {
 
       <div
         id="cta"
-        className="flex flex-col items-center opacity-0 translate-y-20"
-      >src/components/Hero.jsx
+        className="flex flex-col items-center opacity-0 translate-y-20">
         <a href="#highlights" className="btn">BUY</a>
         <p className="font-normal text-xl">From $199 to $899</p>
       </div>
